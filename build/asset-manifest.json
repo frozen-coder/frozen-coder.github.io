@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.a4c63053.css",
+    "main.js": "/portfolio/static/js/main.2c6c1894.js",
+    "static/js/453.e7f01505.chunk.js": "/portfolio/static/js/453.e7f01505.chunk.js",
+    "static/media/AWSLab4-6.png": "/portfolio/static/media/AWSLab4-6.2cc6f6c8558d39150744.png",
+    "static/media/AWSLab1-3.png": "/portfolio/static/media/AWSLab1-3.08e8bf23d392c0eaecc7.png",
+    "static/media/SwitchHackingLab.png": "/portfolio/static/media/SwitchHackingLab.ae21641b8f9c3c8d518c.png",
+    "static/media/OspfLab.png": "/portfolio/static/media/OspfLab.eaf71559862d95027a75.png",
+    "static/media/BGPLab.png": "/portfolio/static/media/BGPLab.c872e583cf753bca44b3.png",
+    "static/media/InstallingWindows.png": "/portfolio/static/media/InstallingWindows.9b159a5f8e86ac67463e.png",
+    "static/media/bg-light.png": "/portfolio/static/media/bg-light.bac0efb485244a522981.png",
+    "static/media/LocalAi.png": "/portfolio/static/media/LocalAi.2c80b8b66957a3362785.png",
+    "static/media/bg-dark.png": "/portfolio/static/media/bg-dark.f420c6b8458af72de935.png",
+    "static/media/ccna_large.jpg": "/portfolio/static/media/ccna_large.72090df9030ad033dc71.jpg",
+    "static/media/Headshot.png": "/portfolio/static/media/Headshot.8df85a7432252d6f332b.png",
+    "static/media/AWS.png": "/portfolio/static/media/AWS.f2b44d8ea098c46d52e4.png",
+    "index.html": "/portfolio/index.html",
+    "main.a4c63053.css.map": "/portfolio/static/css/main.a4c63053.css.map",
+    "main.2c6c1894.js.map": "/portfolio/static/js/main.2c6c1894.js.map",
+    "453.e7f01505.chunk.js.map": "/portfolio/static/js/453.e7f01505.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4c63053.css",
+    "static/js/main.2c6c1894.js"
+  ]
+}
